@@ -2,7 +2,7 @@
 - 👀 I’m interested in CAE, full stack and cycling.
 - 🌱 I’m currently learning Python alongside HTML and CSS with Django framework.
 - 💞️ I’m looking to collaborate on projects related to: PowerBI, Python, CATIA v5, ANSYS WB, MATLAB, FluidSIM, MEDINA, PERMAS and MS Office packages.
-- :100: My productivity tools: Notion, Miro, Figma&Figjam, Dropbox, GDrive, GCalendar. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
+- :100: My productivity tools: Notion, Miro, Figma&Figjam, Slack, Dropbox, GDrive, GCalendar. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
 - 📫 How to reach me: pizofreude@pm.me
 
 <!---
