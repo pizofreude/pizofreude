@@ -10,13 +10,13 @@
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196&text_color=0079fa?logo=conventionalcommits&logoColor=0079fa&title_color=0079fa&text_color=0079fa&iconcolor=0079fa)](https://conventionalcommits.org)
 
-</br>
+<br>
 
 <br>
 
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Pizofreude's Github Activity](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pizofreude&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
+<br>
 
 <!---
 pizofreude/pizofreude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
