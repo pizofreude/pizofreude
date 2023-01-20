@@ -27,6 +27,18 @@
 
 <br>
 
+<p align="center">
+    
+<a href="https://github.com/Pizofreude/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Pizofreude">
+</a>
+    <a href="https://github.com/Pizofreude?tab=followers">
+        <img src="https://img.shields.io/github/followers/Pizofreude?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Pizofreude Visitor's Count" /></p> 
+
 <!---
 pizofreude/pizofreude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
