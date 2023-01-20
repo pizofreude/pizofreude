@@ -17,7 +17,7 @@
 
 <p align="center">
 
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
+![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
 </p>
 <br>
