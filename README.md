@@ -15,11 +15,7 @@
 
 ## :trophy: My Github Flex:
 
-<p align="center">
-
-![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
-
-</p>
+&nbsp;![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
 <br>
 
