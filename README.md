@@ -13,6 +13,8 @@
 
 ## :trophy: My Github Flex:
 
+<h2 align="left"> <img src="https://media.giphy.com/media/J5qJ4uHLghFmeIzgL2/giphy.gif" width="35px">&nbsp; My GitHub Flex</h2>
+
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
