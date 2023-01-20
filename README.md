@@ -1,4 +1,7 @@
-# 👋 Hi, I’m ![Pizofreude](https://readme-typing-svg.herokuapp.com?font=Inter&color=0079fa&size=30&weight=700&lines=Pizofreude;Call+me+Pizo+or+Hafeez)
+# 👋 Hi, I’m
+
+![Pizofreude](https://readme-typing-svg.herokuapp.com?font=Inter&color=0079fa&size=30&weight=700&lines=Pizofreude;Call+me+Pizo+or+Hafeez)
+
 - 👀 I’m interested in CAE, full stack, FOSS and cycling.
 - 🌱 I’m currently learning Docker alongside K8s.
 - 💞️ I’m looking to collaborate on projects related to: CAE Engineering (limited to CAD, FEM & CFD at the moment. Acoustics and Machine Learning Engineering maybe down the line), PowerBI, Python (Django, NumPy, SciPy, Pandas, Matplotlib), HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), MySQL, FreeCAD, Autodesk Fusion 360, CATIA v5, ANSYS WB, MATLAB, FluidSIM, MEDINA, PERMAS, OpenFOAM and MS Office packages.
