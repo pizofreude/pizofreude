@@ -2,7 +2,7 @@
 
 ![Pizofreude](https://readme-typing-svg.herokuapp.com?font=Inter&color=0079fa&size=30&weight=700&lines=Pizofreude;Call+me+Pizo+or+Hafeez)
 
-## About me
+## <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Es9WkET7QSjIItpbLA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-Es9WkET7QSjIItpbLA">via GIPHY</a></p> About me
 
 - 👀 I’m interested in CAE, full stack, FOSS and cycling.
 - 🌱 I’m currently learning Docker alongside K8s.
