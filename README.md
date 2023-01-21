@@ -10,7 +10,7 @@
 - :100: My productivity tools: Notion, Miro, Figma&Figjam, Inkscape, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Pocket. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
 ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية
  and 普通话.
-- 📫 How to reach me: pizofreude@pm.me
+- 📫 How to reach me: [Email](pizofreude@pm.me), &nbsp; [Pixelfed](https://pixelfed.de/Pizofreude)
 
 
 ## :trophy: My Github Flex:
