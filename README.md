@@ -34,8 +34,8 @@
         <a href="https://conventionalcommits.org">
             <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196&title_color=0079fa&text_color=0079fa&iconcolor=0079fa?logo=conventionalcommits&logoColor=0079fa">
         </a>
-            <a href="https://visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude">
-               <img src="https://visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude" alt="Visitor">
+            <a href="https://Visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude">
+               <img src="https://Visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude" alt="Visitors Badge">
             </a>
 </p>
 
