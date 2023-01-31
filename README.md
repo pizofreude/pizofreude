@@ -1,4 +1,4 @@
-# 👋 Hi, I’m
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi, I’m 
 
 ![Pizofreude](https://readme-typing-svg.herokuapp.com?font=Inter&color=0079fa&size=30&weight=700&lines=Pizofreude;Call+me+Pizo+or+Hafeez)
 
@@ -34,9 +34,14 @@
         <a href="https://conventionalcommits.org">
             <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196&title_color=0079fa&text_color=0079fa&iconcolor=0079fa?logo=conventionalcommits&logoColor=0079fa">
         </a>
+            <a href="https://visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude">
+               <img src="" alt="![visitors](https://visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude)">
+            </a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Pizofreude Visitor's Count" /></p> 
+
+[![An image of @pizofreude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pizofreude)](https://holopin.io/@pizofreude)
 
 <!---
 pizofreude/pizofreude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
