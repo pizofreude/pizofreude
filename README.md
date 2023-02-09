@@ -12,8 +12,8 @@
  and 普通话.
 - 📫 How to reach me: pizofreude@pm.me, [Pixelfed](https://pixelfed.de/Pizofreude), [Dev](https://dev.to/pizofreude)
 
-
-## :trophy: My Github Flex:
+<details>
+## :trophy: My Github Stats:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
@@ -43,6 +43,8 @@
 
 [![An image of @pizofreude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pizofreude)](https://holopin.io/@pizofreude)
 
+ 
+</details> 
 <!---
 pizofreude/pizofreude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
