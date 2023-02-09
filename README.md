@@ -13,7 +13,7 @@
 - 📫 How to reach me: pizofreude@pm.me, [Pixelfed](https://pixelfed.de/Pizofreude), [Dev](https://dev.to/pizofreude)
 
 <details>
-## :trophy: My Github Stats:
+<summary> :trophy: My Github Stats: </summary>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
