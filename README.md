@@ -10,7 +10,7 @@
 - :100: My productivity tools: Notion, VS Code, Git, Notepad++, Vim, GNU nano, Zotero, TeX Live with Perl, Anki, Rclone, WakaTime, GitHub, Codeberg, Miro, Figma&Figjam, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Inkscape, GIMP, Canva, Desygner, OBS, Kdenlive, Sony Vegas Pro 15, and  Pocket. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية
  and 普通话.
-- 📫 How to reach me: pizofreude@pm.me, [Slack](https://join.slack.com/shareDM/zt-1q181c8ki-QsnhiF0RTIqPaiIU4YoIYQ), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [Dev](https://dev.to/pizofreude)
+- 📫 How to reach me: pizofreude@pm.me, [Twitter](https://twitter.com/HafeezHaqq), [Slack](https://join.slack.com/shareDM/zt-1q181c8ki-QsnhiF0RTIqPaiIU4YoIYQ), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [Dev](https://dev.to/pizofreude)
 
 <details>
 <summary> :trophy: My Github Stats: </summary>
