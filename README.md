@@ -19,7 +19,7 @@
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Pizofreude's Github Activity](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pizofreude&rank_icon=github&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Pizofreude's Github Activity](https://github-readme-stats-eight-theta.vercel.app/api?username=pizofreude&show_icons=true&theme=0079fa&text_color=0079fa&bg_color=000000&include_all_commits=true&count_private=true)
 
 <br>
 
