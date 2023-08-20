@@ -5,7 +5,7 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
 - 👀 As a dedicated lifelong learner, I’m interested in CAE, Full Stack, FOSS, DeFi & CeFi, and road cycling.
-- 🌱 Self-taugh SWE and I’m currently learning Solidity, Docker alongside K8s.
+- 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD, FEM & CFD at the moment. Acoustics and Machine Learning Engineering maybe down the line), MEDINA, PERMAS, ANSYS Workbench, CATIA v5, FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, MATLAB/GNU Octave, PowerBI, Python3 (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib), LaTeX, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), MySQL,   FluidSIM, and MS365 (Word, Excel, PPT, Outlook, Project, Teams, OneDrive with git and rclone).
 - :100: My productivity tools: Notion, VS Code, Git, Notepad++, Vim, GNU nano, Zotero, TeX Live with Perl, Anki, Rclone, WakaTime, GitHub, Codeberg, Miro, Figma&Figjam, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Inkscape, GIMP, Canva, Desygner, OBS, Kdenlive, Sony Vegas Pro 15, and  Depths.so. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية
