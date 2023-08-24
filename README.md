@@ -12,7 +12,9 @@
  and 普通话.
 - 📫 How to reach me: pizofreude@pm.me, [𝕏](https://x.com/HafeezHaqq), [Slack](https://join.slack.com/shareDM/zt-1q181c8ki-QsnhiF0RTIqPaiIU4YoIYQ), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8HJXRG)
+<div style="text-align: center;">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8HJXRG)
+</div>
 
 <details>
 <summary> :trophy: My Github Stats: </summary>
