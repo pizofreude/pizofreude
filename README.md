@@ -5,15 +5,16 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
 - 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Full Stack, FOSS, Web3 DeFi & CeFi, and road cycling.
-- Koenigsegg CC850 FTW:
+- 
 
   <details>
+  <summary> 🏎️ Koenigsegg CC850 FTW 🔊 </summary>
     
   https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
 
   </details>
 
-- 🏎️ 39th Place in Formula Student Austria 2017 Endurance Race. Koenigsegg CC850 FTW.
+- 🏁 39th Place in Formula Student Austria 2017 Endurance Race.
 - 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA. Data and Machine Learning Engineering maybe down the line), MEDINA, PERMAS, ANSYS Workbench, CATIA v5 & v6, FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, MATLAB/GNU Octave, PowerBI, Python3 (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib), LaTeX, Talend, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), MySQL,   FluidSIM, and MS365 (Word, Excel, PPT, Outlook, Project, Teams, OneDrive with git and rclone).
 - :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), VS Code, Git, Notepad++, Vim, GNU nano, Zotero, TeX Live with Perl, Anki, Rclone, WakaTime, GitHub, Codeberg, Miro, Figma&Figjam, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Inkscape, GIMP, Canva, Desygner, OBS, Kdenlive, Sony Vegas Pro 15, and  Depths.so. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
