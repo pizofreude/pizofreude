@@ -7,7 +7,14 @@
 - 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Full Stack, FOSS, Web3 DeFi & CeFi, and road cycling.
 
     <details>
-    <summary> 🏎️ Koenigsegg CC850 FTW 🔊 </summary>
+    <summary> 🏎️ Megacar: Koenigsegg CC850 FTW 🔊 </summary>
+      
+    https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
+  
+    </details>
+
+    <details>
+    <summary> 🏍️ Superbike: Kawasaki Ninja® ZX™-10R FTW 🔊 </summary>
       
     https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
   
