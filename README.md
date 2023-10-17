@@ -9,10 +9,7 @@
 
   <details>
     
-
-https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
-
-
+      https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
 
   </details>
 
