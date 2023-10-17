@@ -9,6 +9,8 @@
 
 https://github.com/pizofreude/pizofreude/assets/108355948/2bf3b5e0-25fb-4cec-ac75-70bfe79a2c8e
 
+- Koenigsegg CC850:
+  <video width="10vw" height="5vw" controls src="[URL_OF_YOUR_RESIZED_VIDEO_FILE](https://github.com/pizofreude/pizofreude/assets/108355948/2bf3b5e0-25fb-4cec-ac75-70bfe79a2c8e)"></video>
 
 - 🏎️ 39th Place in Formula Student Austria 2017 Endurance Race. Koenigsegg CC850 FTW.
 - 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
