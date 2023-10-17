@@ -7,9 +7,14 @@
 - 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Full Stack, FOSS, Web3 DeFi & CeFi, and road cycling.
 - Koenigsegg CC850 FTW:
 
-<details>
-https://github.com/pizofreude/pizofreude/assets/108355948/b64f956f-1de5-4f59-beb2-9ee8f7b3bfbd
-</details>
+  <details>
+    
+
+https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
+
+
+
+  </details>
 
 - 🏎️ 39th Place in Formula Student Austria 2017 Endurance Race. Koenigsegg CC850 FTW.
 - 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
