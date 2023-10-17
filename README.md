@@ -11,6 +11,8 @@
   <source src="flamethrower-koenigsegg-cc850.mp3" type="audio/ogg">
 </audio>
 
+<audio controls src="flamethrower-koenigsegg-cc850.mp3"></audio>
+
 - 🏎️ 39th Place in Formula Student Austria 2017 Endurance Race. Koenigsegg CC850 FTW.
 - 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA. Data and Machine Learning Engineering maybe down the line), MEDINA, PERMAS, ANSYS Workbench, CATIA v5 & v6, FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, MATLAB/GNU Octave, PowerBI, Python3 (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib), LaTeX, Talend, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), MySQL,   FluidSIM, and MS365 (Word, Excel, PPT, Outlook, Project, Teams, OneDrive with git and rclone).
