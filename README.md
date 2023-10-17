@@ -5,7 +5,11 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
 - 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Full Stack, FOSS, Web3 DeFi & CeFi, and road cycling.
-- Koenigsegg CC850 FTW https://github-production-user-asset-6210df.s3.amazonaws.com/108355948/275794356-01cb5bbd-a602-4dad-8ec7-563bd3f76cd7.webm🔊
+- Koenigsegg CC850 FTW:🔊
+
+https://github.com/pizofreude/pizofreude/assets/108355948/2bf3b5e0-25fb-4cec-ac75-70bfe79a2c8e
+
+
 - 🏎️ 39th Place in Formula Student Austria 2017 Endurance Race. Koenigsegg CC850 FTW.
 - 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA. Data and Machine Learning Engineering maybe down the line), MEDINA, PERMAS, ANSYS Workbench, CATIA v5 & v6, FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, MATLAB/GNU Octave, PowerBI, Python3 (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib), LaTeX, Talend, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), MySQL,   FluidSIM, and MS365 (Word, Excel, PPT, Outlook, Project, Teams, OneDrive with git and rclone).
