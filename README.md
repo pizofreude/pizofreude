@@ -30,27 +30,23 @@
      <details>
      <summary> 🚴 Hyper Roadbike: Bespoke Dream Roadbike Build ⚙️ </summary>
 
-     * **Frame:** Custom built frameset with graphene (e.g. KFactor, FactorBikes, Blackbird Bike Co.)
-     * **Powermeter:** Favero Assioma Duo-Shi (single-sided) or Favero Assioma Duo-Power (dual-sided)
+     * **Frame:** Custom built frameset with graphene infused resin
      * **Groupset:** Shimano Dura Ace Di2 fully wireless (not yet available for public)
-     * **Wheels:** Lightweight wheelset, the best one (e.g. Lightweight, ENVE, Zipp)
-     * **Tires:** Continental GP5000 clincher tyre or Continental GP5000 S TR tubeless tyre
-     * **Tubes:** Pirelli lightweight tube or Vittoria Ultralight Evo Inner Tube
-     * **Saddle:** Selle 612 ERGOWAVE® R Carbon or Pro Stealth Superlight Carbon Saddle
-     * **Handlebar tape:** Double wrap SQlab handlebar tape 712 Black or Lizard Skins DSP 2.5mm Bar Tape
+     * **Powermeter:** Favero Assioma Duo-Power for Shimano SPD-SL Cleats (dual-sided)
+     * **Tires:** Continental GP5000 clincher tyre
+     * **Wheelset:** Lightweight OBERMAYER EVO
+     * **Tubes:** Vittoria Latex 28
+     * **Seatpost:** Zipp SL Speed Seatpost
+     * **Saddle:** Selle 612 ERGOWAVE® R Carbon
+     * **Bottle Cages:** Cinch Carbon Fiber Bottle Cage
+     * **Handlebar:** One Piece Black Inc Integrated Barstem
+     * **Handlebar tape:** Double wrap SQlab handlebar tape 712 Black or Lizard Skins DSP 2.5mm Bar Tape   
      
-     **Other components to consider:**
+          **Focus:** Aero and lightweight setup
      
-     * **Stem:** Lightweight stem, such as the KFactor KForce Light Stem or the Zipp SL-Sprint Stem
-     * **Handlebar:** Lightweight aerodynamic handlebar, such as the ENVE SES Aero Handlebar or the Zipp SL-70 Aero Handlebar
-     * **Seatpost:** Lightweight seatpost, such as the KFactor KForce Light Seatpost or the Zipp SL-Sprint Seatpost
-     * **Cages:** Lightweight bottle cages, such as the Elite Leggera Carbon Bottle Cage or the Tacx Deva Carbon Bottle Cage
-     
-     **Focus:** Aero and lightweight setup
-     
-     This build list is focused on creating a hyper roadbike that is both aerodynamic and lightweight. The custom built frameset with graphene will be incredibly lightweight and stiff, while the lightweight wheelset, clincher tyres, and aerodynamic components will help to reduce drag. The Shimano Dura Ace Di2 fully wireless groupset will provide smooth and precise shifting, while the Favero Assioma Duo powermeter will allow you to track your power output and performance. The Selle 612 ERGOWAVE® R Carbon saddle is designed for comfort and performance, and the double wrap SQlab handlebar tape will provide a comfortable and secure grip.
-     
-     This build is not yet possible to create with all of the components available to the public, but it is a good example of what is possible with bespoke components and custom builds.
+          This bespoke build is focused on creating a hyper roadbike that is both aerodynamic and lightweight. Custom built frameset with graphene infused resin will be incredibly lightweight and stiff, while lightweight wheelset, clincher tyres, and aerodynamic components will help to reduce drag. The Shimano Dura Ace Di2 fully wireless groupset will provide smooth and precise shifting without internal wiring-shenanigans, while Favero Assioma Duo powermeter will allow to track consistent power output and performance. Selle 612 ERGOWAVE® R Carbon saddle is designed for comfort and performance, and the double wrap SQlab handlebar tape will provide a comfortable and secure grip for my Rapha 500 InOneGo annual event.
+          
+          This build is not yet possible to create with all of the components available to the public. It is a good example of what is possible with bespoke components and custom builds.
   
      </details>
 
