@@ -14,7 +14,7 @@
      </details>
 
      <details>
-     <summary> 🏍️ Superbike: Kawasaki Ninja H2®R FTW 🔊 </summary>
+     <summary> 🏍️ Superbike: Kawasaki Ninja H2R FTW 🔊 </summary>
 
      https://github.com/pizofreude/pizofreude/assets/108355948/5ca09cf0-ab92-46aa-8bcc-ba2472c4908c
   
