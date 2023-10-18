@@ -14,9 +14,9 @@
      </details>
 
      <details>
-     <summary> 🏍️ Superbike: Kawasaki Ninja® ZX™-10R FTW 🔊 </summary>
-      
-     https://github.com/pizofreude/pizofreude/assets/108355948/cc8f0c72-a175-477f-b939-af0692c7438f
+     <summary> 🏍️ Superbike: Kawasaki Ninja H2®R FTW 🔊 </summary>
+
+     https://github.com/pizofreude/pizofreude/assets/108355948/5ca09cf0-ab92-46aa-8bcc-ba2472c4908c
   
      </details>
 
