@@ -23,7 +23,7 @@
      <details>
      <summary> 🐎 Stallion Steed: Baroque Friesian FTW 🔊 </summary>
 
-     [https://github.com/pizofreude/pizofreude/assets/108355948/5ca09cf0-ab92-46aa-8bcc-ba2472c4908c](https://youtu.be/_MplqcV3kmU?si=I9nyoa7AHzY9u8K-)
+     https://github.com/pizofreude/pizofreude/assets/108355948/3fcf6261-df9b-418c-913d-a9e24acc9c89
   
      </details>
 
