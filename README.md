@@ -33,8 +33,8 @@
      * **Frame:** Custom built frameset with graphene infused resin
      * **Groupset:** Shimano Dura Ace Di2 fully wireless (not yet available for public)
      * **Powermeter:** Favero Assioma Duo-Power for Shimano SPD-SL Cleats (dual-sided)
-     * **Tires:** Continental GP5000 clincher tyre
      * **Wheelset:** Lightweight OBERMAYER EVO
+     * **Tires:** Continental GP5000 clincher tyre
      * **Tubes:** Vittoria Latex 28
      * **Seatpost:** Zipp SL Speed Seatpost
      * **Saddle:** Selle 612 ERGOWAVE® R Carbon
