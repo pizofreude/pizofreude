@@ -66,6 +66,8 @@
 <details>
 <summary> :trophy: My Github Stats: </summary>
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Pizofreude's FOSS Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pizofreude&theme=github_dark)
 
 <br>
