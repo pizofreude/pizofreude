@@ -56,7 +56,7 @@
 - :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), VS Code, Git, Notepad++, Vim, GNU nano, Zotero, TeX Live with Perl, Anki, Rclone, WakaTime, GitHub, Codeberg, Miro, Figma&Figjam, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Inkscape, GIMP, Canva, Desygner, OBS, Kdenlive, Sony Vegas Pro 15, and  Depths.so. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية, Svenska för min själs själ
  and 普通话 (暂停).
-- 📫 How to reach me: pizofreude@pm.me, [𝕏](https://x.com/HafeezHaqq), [Slack](https://join.slack.com/shareDM/zt-1q181c8ki-QsnhiF0RTIqPaiIU4YoIYQ), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude) and [Hashnode](https://pizofreude.hashnode.dev/)
+- 📫 How to reach me: pizofreude@pm.me, [GrabCAD](https://grabcad.com/abdulhafeez.sadon-1), [𝕏](https://x.com/HafeezHaqq), [Matrix](https://matrix.to/#/@pizofreude:matrix.org), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude) and [Hashnode](https://pizofreude.hashnode.dev/)
 
 <p align="center">
  <a href="https://ko-fi.com/N4N8HJXRG">
