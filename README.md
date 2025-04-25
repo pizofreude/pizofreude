@@ -79,8 +79,7 @@
 
 <p align="center">
     
-<a href="https://github.com/Pizofreude/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Pizofreude">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge&countColor=%2337d67a" /></a>
 </a>
     <a href="https://github.com/Pizofreude?tab=followers">
         <img src="https://img.shields.io/github/followers/Pizofreude?label=Followers&style=social&logoColor=0079fa" alt="GitHub Badge">
