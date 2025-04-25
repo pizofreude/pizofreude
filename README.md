@@ -54,8 +54,8 @@
 - 🌱 FOSS advocate and I’m currently learning cloud computing, dbt, workflow orchestration, streaming data processing.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA) + Data Engineering & Analytics.
      - CAE Stacks: MEDINA, PERMAS, ANSYS Workbench, CATIA V5 & V6, Java (limited to CATIA v5 scripting), FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, C++ (limited to OpenFOAM), MATLAB/GNU Octave.
-     - Data Stack: Tableau, PowerBI, Python (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib, dlt), LaTeX, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript,  SQL(Postgres, MySQL, SQL Server), and MS365 (Word, Excel, PPT, Outlook, Project, Teams, SharePoint).
-- :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), VS Code, Git, Notepad++, Vim, GNU nano, Zotero, Anki, Rclone, WakaTime, GitHub, Codeberg.
+     - Data Stacks: Tableau, PowerBI, Metabase, Python (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib, dlt), dbt, Kestra, Airflow, Docker, Terraform, AWS (S3, Batch, Glue, Crawler, Athena, QuickSight), PySpark, Kafka (Redpanda & PyFlink), SQL(Postgres, MySQL, SQL Server), HTML5, CSS3, JavaScript.
+- :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), LaTeX, VS Code, Git, Notepad++, Vim, GNU nano, Zotero, Anki, Rclone, WakaTime, GitHub, Codeberg, MS365 (Word, Excel, PPT, Outlook, Project, Teams, SharePoint).
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية, and 普通话 (暂停).
 - 📫 How to reach me: pizofreude@pm.me, [GrabCAD](https://grabcad.com/abdulhafeez.sadon-1), [𝕏](https://x.com/HafeezHaqq), [Matrix](https://matrix.to/#/@pizofreude:matrix.org), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude) and [Hashnode](https://pizofreude.hashnode.dev/)
 
