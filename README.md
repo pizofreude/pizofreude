@@ -4,7 +4,7 @@
 
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
-- 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Full Stack, FOSS, Data: Web2&3 DeFi & CeFi, and road cycling.
+- 👀 As CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Data Engineering, DeFi & CeFi, and road cycling.
 
      <details>
      <summary> 🏎️ Megacar: Koenigsegg CC850 FTW 🔊 </summary>
@@ -51,9 +51,11 @@
      </details>
 
 - 🏁 25th Place in Formula Student Austria 2017 Endurance Race with HHN Racing e.V. Team.
-- 🌱 Self-taught SWE and I’m currently learning Solidity, Docker alongside K8s.
-- 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA. Data and Machine Learning Engineering maybe down the line), MEDINA, PERMAS, ANSYS Workbench, CATIA V5 & V6, FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, MATLAB/GNU Octave, PowerBI, Python3 (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib), LaTeX, Talend, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript, Java (limited to CATIA v5 scripting), C++ (limited to OpenFOAM), SQL(Postgres, MySQL, SQL Server), FluidSIM, and MS365 (Word, Excel, PPT, Outlook, Project, Teams, OneDrive with git and rclone).
-- :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), VS Code, Git, Notepad++, Vim, GNU nano, Zotero, TeX Live with Perl, Anki, Rclone, WakaTime, GitHub, Codeberg, Miro, Figma&Figjam, Slack, MS Teams, Dropbox, GDrive, GCalendar, WSL2, VMware Workstation Player, Inkscape, GIMP, Canva, Desygner, OBS, Kdenlive, Sony Vegas Pro 15, and  Depths.so. Researching for encrypted backup software such as Duplicati 2.0, any suggestions are highly appreciated 😃
+- 🌱 FOSS advocate and I’m currently learning cloud computing, dbt, workflow orchestration, streaming data processing.
+- 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA) + Data Engineering & Analytics.
+     - CAE Stacks: MEDINA, PERMAS, ANSYS Workbench, CATIA V5 & V6, Java (limited to CATIA v5 scripting), FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, C++ (limited to OpenFOAM), MATLAB/GNU Octave.
+     - Data Stack: Tableau, PowerBI, Python (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib, dlt), LaTeX, Big Data, Data Management, IoT, HTML5, CSS3, JavaScript,  SQL(Postgres, MySQL, SQL Server), and MS365 (Word, Excel, PPT, Outlook, Project, Teams, SharePoint).
+- :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), VS Code, Git, Notepad++, Vim, GNU nano, Zotero, Anki, Rclone, WakaTime, GitHub, Codeberg.
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية, and 普通话 (暂停).
 - 📫 How to reach me: pizofreude@pm.me, [GrabCAD](https://grabcad.com/abdulhafeez.sadon-1), [𝕏](https://x.com/HafeezHaqq), [Matrix](https://matrix.to/#/@pizofreude:matrix.org), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude) and [Hashnode](https://pizofreude.hashnode.dev/)
 
