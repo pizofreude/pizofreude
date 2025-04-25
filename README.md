@@ -79,7 +79,8 @@
 
 <p align="center">
     
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge&countColor=%2337d67a" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpizofreude%2Fgithub-visitors-badge&countColor=%2337d67a" />
 </a>
     <a href="https://github.com/Pizofreude?tab=followers">
         <img src="https://img.shields.io/github/followers/Pizofreude?label=Followers&style=social&logoColor=0079fa" alt="GitHub Badge">
@@ -87,9 +88,6 @@
         <a href="https://conventionalcommits.org">
             <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196&title_color=0079fa&text_color=0079fa&iconcolor=0079fa?logo=conventionalcommits&logoColor=0079fa">
         </a>
-            <a href="https://Visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude">
-               <img src="https://Visitor-badge.laobi.icu/badge?page_id=pizofreude.pizofreude" alt="Visitors Badge">
-            </a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Pizofreude Visitor's Count" /></p> 
