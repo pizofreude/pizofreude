@@ -90,8 +90,6 @@
         </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: Pizofreude Visitor's Count" /></p> 
-
 [![An image of @pizofreude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pizofreude)](https://holopin.io/@pizofreude)
 
  
