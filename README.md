@@ -4,7 +4,7 @@
 
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
-- 👀 As Data & CAE Engineer and a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Data Engineering, Business Intelligence, DeFi & CeFi, and road cycling.
+- 👀 As a Data & CAE Engineer as well as a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Data Engineering, Business Intelligence, DeFi & CeFi, and road cycling.
 
      <details>
      <summary> 🏎️ Megacar: Koenigsegg CC850 FTW 🔊 </summary>
