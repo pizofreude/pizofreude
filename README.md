@@ -4,7 +4,7 @@
 
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
-- 👀 As a Data & CAE Engineer as well as a dedicated lifelong learner, I’m interested in CAE (automotive, mechanical & aerospace industries), Data Engineering, Business Intelligence, DeFi & CeFi, and road cycling.
+- 👀 As a Data & CAE Engineer as well as a dedicated lifelong learner, I’m interested in Data Engineering, Business Intelligence, CAE (automotive, mechanical & aerospace industries), DeFi & CeFi, and road cycling.
 
      <details>
      <summary> 🏎️ Megacar: Koenigsegg CC850 FTW 🔊 </summary>
@@ -53,8 +53,8 @@
 - 🏁 25th Place in Formula Student Austria 2017 Endurance Race with HHN Racing e.V. Team.
 - 🌱 FOSS advocate and I’m currently learning cloud computing, dbt, workflow orchestration, streaming data processing.
 - 💞️ My skills and what I’m looking forward to collaborate: CAE Engineering (specialization in CAD & FEA) + Data Engineering & Analytics.
-     - CAE Stacks: MEDINA, PERMAS, ANSYS Workbench, CATIA V5 & V6, Java (limited to CATIA v5 scripting), FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, C++ (limited to OpenFOAM), MATLAB/GNU Octave.
      - Data Stacks: Tableau, PowerBI, Metabase, Python (Openpyxl, Django, NumPy, SciPy, Pandas, Matplotlib, dlt), dbt, Kestra, Airflow, Docker, Terraform, AWS (S3, Batch, Glue, Crawler, Athena, QuickSight), PySpark, Kafka (Redpanda & PyFlink), SQL(Postgres, MySQL, SQL Server), HTML5, CSS3, JavaScript.
+     - CAE Stacks: MEDINA, PERMAS, ANSYS Workbench, CATIA V5 & V6, Java (limited to CATIA v5 scripting), FreeCAD, Autodesk Fusion 360, StarCCM+, OpenFOAM, C++ (limited to OpenFOAM), MATLAB/GNU Octave.
 - :100: My productivity tools: Notion (for organized notes), Anytype (for random notes), LaTeX, VS Code, Git, Notepad++, Vim, GNU nano, Zotero, Anki, Rclone, WakaTime, GitHub, Codeberg, MS365 (Word, Excel, PPT, Outlook, Project, Teams, SharePoint).
 - ⚡ Fun fact: Natural languages I speak natively is Malay, whilst professionally are English and Deutsch. Plus, I'm learning اللغة العربية, and 普通话 (暂停).
 - 📫 How to reach me: pizofreude@pm.me, [GrabCAD](https://grabcad.com/abdulhafeez.sadon-1), [𝕏](https://x.com/HafeezHaqq), [Matrix](https://matrix.to/#/@pizofreude:matrix.org), [Telegram](https://t.me/HafeezCAE), [Pixelfed](https://pixelfed.de/Pizofreude), [DevTo](https://dev.to/pizofreude) and [Hashnode](https://pizofreude.hashnode.dev/)
