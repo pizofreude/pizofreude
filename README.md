@@ -4,7 +4,7 @@
 
 <h2 align="left"> <img src="https://media.giphy.com/media/Es9WkET7QSjIItpbLA/giphy.gif" width="35px">&nbsp; About Me 🤵</h2>
 
-- 👀 As a BI & Analytics Engineer as well as a dedicated lifelong learner, I’m interested in Data Engineering, Business Intelligence, Agentic Development & AGI, CAE (automotive, mechanical & aerospace industries), DeFi & CeFi, and road cycling.
+- 👀 As a BI & Analytics Engineer as well as a dedicated lifelong learner, I’m interested in Data Engineering, Business Intelligence, Agentic Development & AGI, CAE (DaaS, SaaS, e-commerce, automotive, mechanical & aerospace industries), DeFi & CeFi, and road cycling.
 
      <details>
      <summary> 🏎️ Megacar: Koenigsegg CC850 FTW 🔊 </summary>
